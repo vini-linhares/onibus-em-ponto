@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/back">
+
+    <ImageButton
+        android:id="@+id/btn_ilv_del"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:adjustViewBounds="true"
+        android:background="?selectableItemBackground"
+        android:contentDescription="@string/delete_view"
+        android:cropToPadding="false"
+        android:elevation="0dp"
+        android:padding="10dp"
+        android:scaleType="fitStart"
+        android:src="@drawable/btn1" />
+
+</RelativeLayout>

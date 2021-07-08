@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/miTermos"
+        android:icon="@drawable/termos"
+        app:showAsAction="ifRoom"
+        android:title="Termos">
+    </item>
+    <item
+        android:id="@+id/miTut"
+        android:icon="@drawable/tut"
+        app:showAsAction="ifRoom"
+        android:title="Tutorial">
+    </item>
+    <item
+        android:id="@+id/miCompose"
+        android:icon="@drawable/conf"
+        app:showAsAction="ifRoom"
+        android:title="Config">
+    </item>
+</menu>

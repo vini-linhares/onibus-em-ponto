@@ -1,0 +1,382 @@
+1015-10;Chác. Maria Trindade
+1178-32;Pça. Do Correio
+1178-33;São Miguel
+1178-42;Pça. Do Correio
+1206-10;Correio
+121G-10;Metrô Tucuruvi
+1701-10;Carandiru
+1709-21;Metrô Tucuruvi
+1720-21;Metrô Tucuruvi
+1721-10;Metrô Carandiru
+172N-21;Metrô Belém
+172N-22;Metrô Belém
+1730-10;Santana
+1757-10;Metrô Santana
+1766-10;Metrô Santana
+1778-10;Metrô Santana
+1782-10;Metrô Santana
+1783-22;Metrô Santana
+2002-10;Term. Bandeira
+2005-10;São Miguel
+2010-21;Metrô Santana
+2012-10;Metrô Tietê
+2017-10;São Miguel
+2018-10;São Miguel
+2024-10;Cachoeira
+2028-10;Metrô Tucuruvi
+2030-10;Metrô Santana
+2032-10;Metrô Carandiru
+2033-10;Term. Rod. Tietê 
+2060-10;Metrô Artur Alvim
+2079-10;Cptm Itaim Paulista
+2101-10;Pça. Da Sé
+2101-41;Vl. Prudente
+211V-10;Penha
+2290-21;Term. Pq. D. Pedro Ii
+2582-21;Term. Pq. D. Pedro Ii
+2666-21;Term. Pq. D. Pedro Ii
+2678-41;Term. Pq. D. Pedro Ii
+2702-21;Metrô Artur Alvim
+2703-21;Metrô Itaquera
+2703-22;Metrô Itaquera
+2707-31;Metrô Itaquera
+2709-10;Vl. União
+2709-31;Vl. União
+2710-10;Burgo Paulista
+2710-31;Term. A. E. Carvalho
+2712-10;Shop. Metrô Itaquera
+2713-10;Chác. Bela Vista
+2714-10;Vl. Rui Barbosa
+2717-10;Cangaíba
+271C-10;Term. Princ. Isabel
+2722-31;Jd. Verônia
+2724-10;Conj. Araucária
+2725-10;Jd. São Carlos
+2727-10;Conj. A. E. Carvalho
+272N-10;Pq. D. Pedro Ii
+2732-10;Vl. Regina
+273G-21;Metrô Artur Alvim
+273N-41;Metrô Vl. Matilde
+273R-42;Metrô Itaquera
+2740-10;Metrô Santana
+2766-41;Metrô Itaquera
+3003-10;Cptm Vl. Mara/itaim
+3004-10;Cptm Vl. Mara/itaim
+3013-10;Metalúrgicos
+3015-10;Jd. Mabel
+3019-10;Vl. Paulista I
+3032-10;Circular
+3064-41;Sta. Etelvina Ii B6
+3139-31;Pça. Da República
+3206-10;Conj. Chaparral
+342N-10;E.t. Itaquera
+3459-21;Term. Pq. D. Pedro Ii
+3459-23;Itaim Paulista
+3459-24;Term. Pq. D. Pedro Ii
+3462-41;Metrô Tatuapé
+3718-10;Nova America
+3725-10;Vl. Dalila
+3725-41;Vl. Aricanduva
+3728-10;Pq. Savoy City
+3728-41;Pq. Nova Savoy
+3735-10;Jd. São João 
+3735-21;Jd. São João 
+3735-41;Metrô Artur Alvim
+3737-21;Metrô Guilhermina/esperança
+3737-31;Circular
+3739-31;Centro De Itaquera
+3751-21;Metrô Itaquera
+4004-10;Barro Branco
+4005-10;Barro Branco
+4006-10;Circular
+4006-21;Circular
+4015-10;Jd. Rodolfo Pirani
+4016-10;Jd. Rodolfo Pirani
+4053-10;Cptm José Bonifácio
+4055-10;Vl. Solange
+407M-10;Metrô Vl. Mariana
+407N-21;Metrô Penha
+407Y-10;Metrô Vl. Prudente
+4086-10;Circular
+4092-10;Setor Iib
+4111-10;Pça. Da República
+4112-10;Pça. Da República
+4113-10;Pça. Da República
+4115-10;Pça. Da República
+4222-10;Mooca
+4284-10;Vl. Prudente
+4286-10;Vl. Prudente
+4310-21;Term. Pq. D. Pedro Ii
+4717-10;Metrô Saúde
+4718-10;Metrô Sta. Cruz
+4724-10;Vl. Nhocuné
+4725-10;Shop. Ibirapuera
+4726-31;Metrô Tatuapé
+4734-21;Metrô Saúde
+4742-10;Metrô São Judas
+475R-21;Metrô Saúde
+476L-10;Lar Esc. São Francisco
+5026-10;Jd. São Roberto
+5028-10;Metrô Alto Do Ipiranga
+502J-21;Vl. Joaniza
+502J-22;Vl. Joaniza
+5034-31;Vl. Liviero
+508L-10;Aclimação
+5091-10;Metrô São Judas
+5103-10;Moema
+5103-21;Metrô Sta. Cruz
+5106-21;Shop. Ibirapuera
+5110-21;Term. Mercado
+5110-22;Term. Mercado
+5110-23;Term. Mercado
+5119-23;Instituto Lucy Montoro
+5143-31;Term. Pq. D. Pedro Ii
+514T-21;Metrô Vl. Prudente
+514T-22;Metrô Vl. Prudente
+5164-10;Pq. Ibirapuera
+5164-21;Pq. Ibirapuera
+5164-41;Metrô Conceição
+516N-10;Pça. D. Gastão
+5194-10;Pq. Ibirapuera
+5318-21;Pça. Da Sé
+5318-22;Chác. Sto. Antonio
+5362-21;Pça. Da Sé
+5362-22;Pça. Da Sé
+5362-23;Vicente Rao
+5362-41;Pq. Ibirapuera
+5370-22;Borba Gato
+5391-21;Lgo. São Francisco
+5391-22;Jd. âNgela
+546J-41;Col. Sta. Maria
+546L-41;Col. Sta. Maria
+5632-21;Lgo. São Francisco
+5632-51;Lgo. São Francisco
+5652-21;Pça. Da Sé
+5701-21;Shop. Morumbi
+573A-10;Vl. Alpina
+573T-21;Term. Sapopemba
+6002-10;Hosp. Pedreira
+6008-21;Term. Sto. Amaro
+6012-31;Jd. âNgela
+6013-21;Jd. âNgela
+6019-10;Jd. Alfredo
+6020-10;Parelheiros
+6020-51;Parelheiros
+6021-10;Jd. Nova Era
+6026-31;Term. Sto. Amaro
+6039-21;Cohab Jd. São Bento
+6041-21;Jd. Monte Azul
+6045-21;Term. Capelinha
+6055-10;Shop. Interlagos
+6056-41;Term. Grajaú
+6071-22;Term. Sto. Amaro
+6072-21;Term. Varginha
+6072-22;Term. Varginha
+6072-23;Baln. São José
+6073-21;Term. Varginha
+6075-41;Term. Varginha
+6084-21;Term. Varginha
+6091-21;Term. Sto. Amaro
+6091-51;Term. Sto. Amaro
+609J-10;Metrô São Judas
+6262-21;Cptm Leopoldina
+627J-10;Metrô São Judas
+6338-10;Pq. Ibirapuera
+6366-10;Pq. Ibirapuera
+637A-21;Term. Pinheiros
+637A-22;Term. Jd. âNgela
+637A-25;Term. Pinheiros
+637A-26;Term. Pinheiros
+6412-10;Paulista
+6412-21;Itaim Bibi
+6418-10;Brooklin Novo
+6450-21;Itaim Bibi
+6450-51;Term. Bandeira
+6451-21;Pça. 14 Bis
+6455-21;Ibirapuera
+648P-21;Itaim Bibi
+675G-22;Col. Sta. Maria
+675K-23;Moema
+677V-10;Cptm Grajaú
+6913-21;Itaim Bibi
+695X-22;Shop. Interlagos
+695Y-22;Borba Gato
+695Y-41;Col. Sta. Maria
+6960-21;E.t. Vitor Manzini
+6L01-22;Term. Varginha
+6L01-23;Term. Varginha
+6L05-21;Term. Parelheiros
+7002-10;Hosp. Das Clínicas
+7005-10;Jd. âNgela
+7006-10;Jd. âNgela
+7009-10;Jd. âNgela
+7011-10;Jd. âNgela
+7011-31;Jd. âNgela
+7014-10;Term. Sto. Amaro
+7016-21;Term. Sto. Amaro
+7062-41;Horto Do Ypê
+707A-23;Moema
+714C-10;Paulista
+715M-21;Metrô Butantã
+7267-10;Pça. Ramos De Azevedo
+7272-10;Pça. Ramos De Azevedo
+7281-10;Pça. Ramos De Azevedo
+7282-10;Pça. Ramos De Azevedo
+736I-21;Metrô Vl. Das Belezas
+7411-10;Pça. Da Sé
+746K-10;Campo Belo
+746R-10;Sto. Amaro
+746V-10;Hosp. Campo Limpo
+771P-10;Hosp. Das Clínicas
+775A-10;Pinheiros
+775F-10;Hosp. Das Clínicas
+775F-31;Pq. Do Povo
+775V-10;Itaim Bibi
+778R-21;Term. Princ. Isabel
+7903-10;Pça. Ramos De Azevedo
+8012-10;Cid. Universitária
+8013-22;Term. Jd. Britânia
+8013-41;Jd. Paineiras
+8014-10;Perus
+8018-10;Butantã
+8019-10;Metrô Butantã
+8020-10;Shop. Morumbi
+8021-10;Butantã
+8022-10;Cid. Universitária
+8023-10;Butantã
+8025-10;Butantã
+8026-10;Butantã
+8027-10;Butantã
+8047-51;Lapa
+8050-21;Lapa
+805L-10;Aclimação
+8062-10;Lapa
+8072-10;Butantã
+8073-10;Butantã
+8077-10;Metrô Butantã
+8078-10;Hosp. Campo Limpo
+807P-10;Sto. Amaro
+809J-10;Term. Pinheiros
+809R-10;Term. Pinheiros
+809V-10;Paulista
+817C-10;Hosp. Das Clínicas
+8252-10;Lapa
+8319-10;Sesc Pompéia
+8319-21;Pq. Continental
+857P-21;Paraiso
+857R-41;Ana Rosa
+857R-42;Ana Rosa
+8594-21;Pça. Ramos De Azevedo
+8594-41;Pça. Ramos De Azevedo
+8600-22;Lgo. Do Paissandú
+8700-21;Pça. Ramos De Azevedo
+8700-22;Term. Campo Limpo
+8700-24;Pça. Ramos De Azevedo
+874C-10;Metrô
+9008-41;Term. Cachoeirinha
+9011-21;City Jaraguá
+9014-42;Term. Lapa
+9032-21;Term. Cachoeirinha
+9050-10;Itaim Bibi
+908T-10;Butantã
+9162-10;Term. Casa Verde
+9166-10;Term. Cachoeirinha
+938P-21;Metrô Barra Funda
+971R-21;Metrô Santana
+971R-51;Metrô Santana
+9785-51;Term. Cachoeirinha
+CT01-1;Turismo
+N131-11;Vl. Piauí
+N132-11;Pq. São Domingos
+N133-11;Cid. D’abril 3ª Gleba
+N134-11;Taipas
+N135-11;Jd. Donária
+N136-11;Morro Doce
+N137-11;Perus
+N138-11;Jd. Princesa
+N139-11;Jd. Paulistano
+N140-11;Vl. Mirante
+N141-11;Jd. Carombé
+N142-11;Term. Casa Verde
+N143-11;Morro Grande
+N231-11;Pedra Branca
+N232-11;Pq. Novo Mundo
+N233-11;Vl. Sabrina
+N234-11;Lgo. Do Pery
+N235-11;Pedra Branca
+N236-11;Jd. Antártica
+N237-11;Pq. Edú Chaves
+N238-11;Cem. Pq. Dos Pinheiros
+N239-11;Vl. Nova Galvão
+N240-11;Cachoeira
+N241-11;Vl. Albertina
+N242-11;Jd. Campo Limpo
+N243-11;Jd. Brasil
+N244-11;Jd. Flôr De Maio
+N245-11;Jd. Pery Alto
+N331-11;Oliveirinha
+N332-11;Vl. Cisper (cptm Usp)
+N333-11;Cid. Kemel
+N334-11;Cptm Guaianazes
+N335-11;Ermelino Matarazzo
+N336-11;Jd. Camargo Velho
+N337-11;Jd. Camargo Velho
+N339-11;Artur Alvim
+N340-11;Jd. Sto. Antônio
+N341-11;Vl. Cisper (cptm Usp)
+N342-11;Jd. Danfer
+N343-11;Metrô Itaquera
+N344-11;Vl. Cisper
+N431-11;Jd. Da Conquista
+N432-11;Jd. Sto. André
+N434-11;Jd. Iv Centenário
+N435-11;Metalúrgicos
+N436-11;Barro Branco
+N437-11;Term. Cid. Tiradentes
+N438-11;Hosp. Sta. Marcelina
+N439-11;Cohab Fazenda Do Carmo
+N440-11;Savoy/dalila
+N441-11;Vl. Yolanda
+N531-11;Term. Sacomã
+N532-11;Hosp. São Mateus
+N533-11;Jd. Planalto
+N534-11;Vl. Arapuá
+N535-11;Jd. Celeste
+N536-11;Jd. Itápolis
+N537-11;Vl. Prudente
+N538-11;Jd. Celeste
+N539-11;Hosp. Heliópolis
+N540-11;Jd. São Roberto
+N633-11;Morumbi Shop.
+N634-11;Jd. Luso
+N635-11;Jd. Gaivotas
+N636-11;Jd. Noronha
+N637-11;Vl. Missionária
+N638-11;Unisa
+N639-11;Vargem Grande
+N640-11;Eldorado
+N732-11;Term. Jd. Jacira
+N733-11;Vl. Gilda
+N734-11;Valo Velho
+N735-11;Jd. Guarujá
+N736-11;Jd. Horizonte Azul
+N737-11;Pq. Do Lago
+N738-11;Pq. Do Lago
+N739-11;Jd. Universal
+N740-11;Jd. Riviera
+N741-11;Valo Velho
+N743-11;Jd. Planalto
+N744-11;Jd. Vaz De Lima
+N746-11;Jd. Irene
+N831-11;Pq. Da Lapa
+N832-11;Pq. Continental
+N833-11;Ceasa
+N834-11;Term. Pinheiros
+N835-11;Jd. João Xxiii
+N836-11;Pq. Continental
+N837-11;Cdhu Butantã
+N838-11;Cptm Leopoldina
+N839-11;Metrô Vl. Mariana
+N840-11;Sta. Cecília
+N841-11;Sta. Cecília
+N842-11;Cohab Raposo Tavares

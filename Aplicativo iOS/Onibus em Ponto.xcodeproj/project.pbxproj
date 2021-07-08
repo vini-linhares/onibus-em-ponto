@@ -1,0 +1,533 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2B0C32881F7EA84100B173A2 /* TermosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B0C32871F7EA84100B173A2 /* TermosViewController.swift */; };
+		2B0C328A1F7EDEBD00B173A2 /* DetalhesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B0C32891F7EDEBD00B173A2 /* DetalhesViewController.swift */; };
+		2B0C328C1F7EE42800B173A2 /* DetalhesCelulaTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B0C328B1F7EE42800B173A2 /* DetalhesCelulaTableViewCell.swift */; };
+		2B15C83B1F7C49D700481BCE /* TutorialViewController.temp_caseinsensitive_rename.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B15C83A1F7C49D700481BCE /* TutorialViewController.temp_caseinsensitive_rename.swift */; };
+		2B19F5061F82D46600907639 /* InfoDadosTabelaItinerario.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B19F5051F82D46600907639 /* InfoDadosTabelaItinerario.swift */; };
+		2B19F5081F82FC0300907639 /* PontoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B19F5071F82FC0300907639 /* PontoViewController.swift */; };
+		2B19F50A1F8333CE00907639 /* MeuOnibus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B19F5091F8333CE00907639 /* MeuOnibus.swift */; };
+		2B451DFF1F7BFA5A00625716 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B451DFE1F7BFA5A00625716 /* AppDelegate.swift */; };
+		2B451E011F7BFA5A00625716 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B451E001F7BFA5A00625716 /* ViewController.swift */; };
+		2B451E041F7BFA5A00625716 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B451E021F7BFA5A00625716 /* Main.storyboard */; };
+		2B451E091F7BFA5A00625716 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B451E071F7BFA5A00625716 /* LaunchScreen.storyboard */; };
+		2B451E111F7C185900625716 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B451E101F7C185900625716 /* Menu.swift */; };
+		2B451E131F7C221800625716 /* HomeCelula.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B451E121F7C221800625716 /* HomeCelula.swift */; };
+		2B451E151F7C366800625716 /* MeuLocalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B451E141F7C366800625716 /* MeuLocalViewController.swift */; };
+		2B4E81E71F7D8C18004C8078 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B4E81E61F7D8C18004C8078 /* Images.xcassets */; };
+		2B4E81E91F7D966E004C8078 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B4E81E81F7D966E004C8078 /* ViewController2.swift */; };
+		2B61D42D1F86E32400F19DD4 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B61D42C1F86E32400F19DD4 /* AVFoundation.framework */; };
+		2B71F04C1F82684700CA9A58 /* DetalhesDadosTabela.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B71F04B1F82684700CA9A58 /* DetalhesDadosTabela.swift */; };
+		2B71F04E1F827CC000CA9A58 /* InfoCelula.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B71F04D1F827CC000CA9A58 /* InfoCelula.swift */; };
+		2B71F0501F827D4600CA9A58 /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B71F04F1F827D4600CA9A58 /* InfoViewController.swift */; };
+		2B8667DB201F3E3A003D2919 /* c.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2B8667CD201F3E36003D2919 /* c.mp3 */; };
+		2B8667DC201F3E3A003D2919 /* i.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2B8667CE201F3E36003D2919 /* i.mp3 */; };
+		2B8667DD201F3E3A003D2919 /* a.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2B8667CF201F3E37003D2919 /* a.mp3 */; };
+		2B8667DE201F3E3A003D2919 /* h.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2B8667D0201F3E37003D2919 /* h.mp3 */; };
+		2B8667DF201F3E3A003D2919 /* e.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2B8667D1201F3E37003D2919 /* e.mp3 */; };
+		2B8667E0201F3E3A003D2919 /* b.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2B8667D2201F3E38003D2919 /* b.mp3 */; };
+		2B8667E1201F3E3A003D2919 /* f.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2B8667D3201F3E38003D2919 /* f.mp3 */; };
+		2B8667E2201F3E3A003D2919 /* j.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2B8667D4201F3E38003D2919 /* j.mp3 */; };
+		2B8667E3201F3E3A003D2919 /* l.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2B8667D5201F3E38003D2919 /* l.mp3 */; };
+		2B8667E4201F3E3A003D2919 /* m.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2B8667D6201F3E39003D2919 /* m.mp3 */; };
+		2B8667E5201F3E3A003D2919 /* d.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2B8667D7201F3E39003D2919 /* d.mp3 */; };
+		2B8667E6201F3E3A003D2919 /* n.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2B8667D8201F3E39003D2919 /* n.mp3 */; };
+		2B8667E7201F3E3A003D2919 /* k.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2B8667D9201F3E39003D2919 /* k.mp3 */; };
+		2B8667E8201F3E3A003D2919 /* g.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2B8667DA201F3E39003D2919 /* g.mp3 */; };
+		2BA6409E1F83C13500BA2758 /* MeuOnibusCelula.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BA6409D1F83C13500BA2758 /* MeuOnibusCelula.swift */; };
+		2BA640BF1F840C7700BA2758 /* load.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2BA6409F1F840C4B00BA2758 /* load.mp3 */; };
+		2BA640C01F840C7A00BA2758 /* z_termos_de_uso.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2BA640A31F840C4B00BA2758 /* z_termos_de_uso.mp3 */; };
+		2BA640C21F840E7C00BA2758 /* MeuOnibusDadosTabela.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BA640C11F840E7C00BA2758 /* MeuOnibusDadosTabela.swift */; };
+		2BA640C41F84180D00BA2758 /* ProximoMeuOnibusViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BA640C31F84180D00BA2758 /* ProximoMeuOnibusViewController.swift */; };
+		2BA640C61F84271300BA2758 /* ProximoMeuOnibusCelula.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BA640C51F84271300BA2758 /* ProximoMeuOnibusCelula.swift */; };
+		2BA640C81F84276B00BA2758 /* ProximoMeuOnibusDadosTabela.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BA640C71F84276B00BA2758 /* ProximoMeuOnibusDadosTabela.swift */; };
+		2BA640CA1F84629E00BA2758 /* SelecionarOnibusVIewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BA640C91F84629E00BA2758 /* SelecionarOnibusVIewController.swift */; };
+		2BA640CC1F8463BC00BA2758 /* SelecionarOnibusCelula.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BA640CB1F8463BC00BA2758 /* SelecionarOnibusCelula.swift */; };
+		2BA640CE1F8464EF00BA2758 /* SelecionarOnibusDadosTabela.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BA640CD1F8464EF00BA2758 /* SelecionarOnibusDadosTabela.swift */; };
+		2BA640D01F84766100BA2758 /* ProximoSelevionarOnibusViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BA640CF1F84766100BA2758 /* ProximoSelevionarOnibusViewController.swift */; };
+		2BA640D21F84767B00BA2758 /* ProximoSelecionarOnibusCelula.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BA640D11F84767B00BA2758 /* ProximoSelecionarOnibusCelula.swift */; };
+		2BA640D41F84769100BA2758 /* ProximoSelecionarOnibusDadosTabela.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BA640D31F84769100BA2758 /* ProximoSelecionarOnibusDadosTabela.swift */; };
+		2BA640D61F848EB700BA2758 /* ProximoSelecionarOnibusModelo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BA640D51F848EB700BA2758 /* ProximoSelecionarOnibusModelo.swift */; };
+		2BED22241F880E9A00F93CDA /* erro.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2BED22231F880E7A00F93CDA /* erro.mp3 */; };
+		2BED22251F880E9C00F93CDA /* fim.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2BED22211F880E7900F93CDA /* fim.mp3 */; };
+		2BED22261F880E9F00F93CDA /* inicio.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2BED22221F880E7900F93CDA /* inicio.mp3 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		2B0C32871F7EA84100B173A2 /* TermosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TermosViewController.swift; sourceTree = "<group>"; };
+		2B0C32891F7EDEBD00B173A2 /* DetalhesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetalhesViewController.swift; sourceTree = "<group>"; };
+		2B0C328B1F7EE42800B173A2 /* DetalhesCelulaTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetalhesCelulaTableViewCell.swift; sourceTree = "<group>"; };
+		2B15C83A1F7C49D700481BCE /* TutorialViewController.temp_caseinsensitive_rename.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialViewController.temp_caseinsensitive_rename.swift; sourceTree = "<group>"; };
+		2B19F5051F82D46600907639 /* InfoDadosTabelaItinerario.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoDadosTabelaItinerario.swift; sourceTree = "<group>"; };
+		2B19F5071F82FC0300907639 /* PontoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PontoViewController.swift; sourceTree = "<group>"; };
+		2B19F5091F8333CE00907639 /* MeuOnibus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeuOnibus.swift; sourceTree = "<group>"; };
+		2B37AC7E1F86B5BA008E1C10 /* styles.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
+		2B451DFB1F7BFA5A00625716 /* Onibus em Ponto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Onibus em Ponto.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B451DFE1F7BFA5A00625716 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		2B451E001F7BFA5A00625716 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		2B451E031F7BFA5A00625716 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		2B451E081F7BFA5A00625716 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		2B451E0A1F7BFA5A00625716 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2B451E101F7C185900625716 /* Menu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
+		2B451E121F7C221800625716 /* HomeCelula.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeCelula.swift; sourceTree = "<group>"; };
+		2B451E141F7C366800625716 /* MeuLocalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeuLocalViewController.swift; sourceTree = "<group>"; };
+		2B4E81E61F7D8C18004C8078 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		2B4E81E81F7D966E004C8078 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		2B61D42C1F86E32400F19DD4 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		2B71F04B1F82684700CA9A58 /* DetalhesDadosTabela.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetalhesDadosTabela.swift; sourceTree = "<group>"; };
+		2B71F04D1F827CC000CA9A58 /* InfoCelula.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoCelula.swift; sourceTree = "<group>"; };
+		2B71F04F1F827D4600CA9A58 /* InfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
+		2B8667CD201F3E36003D2919 /* c.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = c.mp3; sourceTree = "<group>"; };
+		2B8667CE201F3E36003D2919 /* i.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = i.mp3; sourceTree = "<group>"; };
+		2B8667CF201F3E37003D2919 /* a.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = a.mp3; sourceTree = "<group>"; };
+		2B8667D0201F3E37003D2919 /* h.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = h.mp3; sourceTree = "<group>"; };
+		2B8667D1201F3E37003D2919 /* e.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = e.mp3; sourceTree = "<group>"; };
+		2B8667D2201F3E38003D2919 /* b.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = b.mp3; sourceTree = "<group>"; };
+		2B8667D3201F3E38003D2919 /* f.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = f.mp3; sourceTree = "<group>"; };
+		2B8667D4201F3E38003D2919 /* j.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = j.mp3; sourceTree = "<group>"; };
+		2B8667D5201F3E38003D2919 /* l.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = l.mp3; sourceTree = "<group>"; };
+		2B8667D6201F3E39003D2919 /* m.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = m.mp3; sourceTree = "<group>"; };
+		2B8667D7201F3E39003D2919 /* d.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = d.mp3; sourceTree = "<group>"; };
+		2B8667D8201F3E39003D2919 /* n.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = n.mp3; sourceTree = "<group>"; };
+		2B8667D9201F3E39003D2919 /* k.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = k.mp3; sourceTree = "<group>"; };
+		2B8667DA201F3E39003D2919 /* g.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = g.mp3; sourceTree = "<group>"; };
+		2BA6409D1F83C13500BA2758 /* MeuOnibusCelula.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeuOnibusCelula.swift; sourceTree = "<group>"; };
+		2BA6409F1F840C4B00BA2758 /* load.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = load.mp3; path = ../../../raw/load.mp3; sourceTree = "<group>"; };
+		2BA640A31F840C4B00BA2758 /* z_termos_de_uso.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = z_termos_de_uso.mp3; path = ../../../raw/z_termos_de_uso.mp3; sourceTree = "<group>"; };
+		2BA640C11F840E7C00BA2758 /* MeuOnibusDadosTabela.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeuOnibusDadosTabela.swift; sourceTree = "<group>"; };
+		2BA640C31F84180D00BA2758 /* ProximoMeuOnibusViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProximoMeuOnibusViewController.swift; sourceTree = "<group>"; };
+		2BA640C51F84271300BA2758 /* ProximoMeuOnibusCelula.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProximoMeuOnibusCelula.swift; sourceTree = "<group>"; };
+		2BA640C71F84276B00BA2758 /* ProximoMeuOnibusDadosTabela.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProximoMeuOnibusDadosTabela.swift; sourceTree = "<group>"; };
+		2BA640C91F84629E00BA2758 /* SelecionarOnibusVIewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelecionarOnibusVIewController.swift; sourceTree = "<group>"; };
+		2BA640CB1F8463BC00BA2758 /* SelecionarOnibusCelula.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelecionarOnibusCelula.swift; sourceTree = "<group>"; };
+		2BA640CD1F8464EF00BA2758 /* SelecionarOnibusDadosTabela.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelecionarOnibusDadosTabela.swift; sourceTree = "<group>"; };
+		2BA640CF1F84766100BA2758 /* ProximoSelevionarOnibusViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProximoSelevionarOnibusViewController.swift; sourceTree = "<group>"; };
+		2BA640D11F84767B00BA2758 /* ProximoSelecionarOnibusCelula.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProximoSelecionarOnibusCelula.swift; sourceTree = "<group>"; };
+		2BA640D31F84769100BA2758 /* ProximoSelecionarOnibusDadosTabela.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProximoSelecionarOnibusDadosTabela.swift; sourceTree = "<group>"; };
+		2BA640D51F848EB700BA2758 /* ProximoSelecionarOnibusModelo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProximoSelecionarOnibusModelo.swift; sourceTree = "<group>"; };
+		2BED22211F880E7900F93CDA /* fim.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = fim.mp3; sourceTree = "<group>"; };
+		2BED22221F880E7900F93CDA /* inicio.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = inicio.mp3; sourceTree = "<group>"; };
+		2BED22231F880E7A00F93CDA /* erro.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = erro.mp3; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2B451DF81F7BFA5A00625716 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B61D42D1F86E32400F19DD4 /* AVFoundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2B15C83C1F7C58BD00481BCE /* sons */ = {
+			isa = PBXGroup;
+			children = (
+				2B8667CF201F3E37003D2919 /* a.mp3 */,
+				2B8667D2201F3E38003D2919 /* b.mp3 */,
+				2B8667CD201F3E36003D2919 /* c.mp3 */,
+				2B8667D7201F3E39003D2919 /* d.mp3 */,
+				2B8667D1201F3E37003D2919 /* e.mp3 */,
+				2B8667D3201F3E38003D2919 /* f.mp3 */,
+				2B8667DA201F3E39003D2919 /* g.mp3 */,
+				2B8667D0201F3E37003D2919 /* h.mp3 */,
+				2B8667CE201F3E36003D2919 /* i.mp3 */,
+				2B8667D4201F3E38003D2919 /* j.mp3 */,
+				2B8667D9201F3E39003D2919 /* k.mp3 */,
+				2B8667D5201F3E38003D2919 /* l.mp3 */,
+				2B8667D6201F3E39003D2919 /* m.mp3 */,
+				2B8667D8201F3E39003D2919 /* n.mp3 */,
+				2BED22231F880E7A00F93CDA /* erro.mp3 */,
+				2BED22211F880E7900F93CDA /* fim.mp3 */,
+				2BED22221F880E7900F93CDA /* inicio.mp3 */,
+				2BA6409F1F840C4B00BA2758 /* load.mp3 */,
+				2BA640A31F840C4B00BA2758 /* z_termos_de_uso.mp3 */,
+			);
+			path = sons;
+			sourceTree = "<group>";
+		};
+		2B451DF21F7BFA5A00625716 = {
+			isa = PBXGroup;
+			children = (
+				2B451DFD1F7BFA5A00625716 /* Onibus em Ponto */,
+				2B451DFC1F7BFA5A00625716 /* Products */,
+				2B61D42B1F86E32400F19DD4 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		2B451DFC1F7BFA5A00625716 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2B451DFB1F7BFA5A00625716 /* Onibus em Ponto.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2B451DFD1F7BFA5A00625716 /* Onibus em Ponto */ = {
+			isa = PBXGroup;
+			children = (
+				2B15C83C1F7C58BD00481BCE /* sons */,
+				2B451DFE1F7BFA5A00625716 /* AppDelegate.swift */,
+				2B0C32891F7EDEBD00B173A2 /* DetalhesViewController.swift */,
+				2B71F04B1F82684700CA9A58 /* DetalhesDadosTabela.swift */,
+				2B0C328B1F7EE42800B173A2 /* DetalhesCelulaTableViewCell.swift */,
+				2B71F04D1F827CC000CA9A58 /* InfoCelula.swift */,
+				2B19F5051F82D46600907639 /* InfoDadosTabelaItinerario.swift */,
+				2B71F04F1F827D4600CA9A58 /* InfoViewController.swift */,
+				2B451E101F7C185900625716 /* Menu.swift */,
+				2B451E001F7BFA5A00625716 /* ViewController.swift */,
+				2B451E021F7BFA5A00625716 /* Main.storyboard */,
+				2BA640CF1F84766100BA2758 /* ProximoSelevionarOnibusViewController.swift */,
+				2BA640D51F848EB700BA2758 /* ProximoSelecionarOnibusModelo.swift */,
+				2BA640D11F84767B00BA2758 /* ProximoSelecionarOnibusCelula.swift */,
+				2B451E121F7C221800625716 /* HomeCelula.swift */,
+				2BA640D31F84769100BA2758 /* ProximoSelecionarOnibusDadosTabela.swift */,
+				2BA640C91F84629E00BA2758 /* SelecionarOnibusVIewController.swift */,
+				2BA640CD1F8464EF00BA2758 /* SelecionarOnibusDadosTabela.swift */,
+				2BA640CB1F8463BC00BA2758 /* SelecionarOnibusCelula.swift */,
+				2B19F5091F8333CE00907639 /* MeuOnibus.swift */,
+				2BA640C11F840E7C00BA2758 /* MeuOnibusDadosTabela.swift */,
+				2BA6409D1F83C13500BA2758 /* MeuOnibusCelula.swift */,
+				2BA640C31F84180D00BA2758 /* ProximoMeuOnibusViewController.swift */,
+				2BA640C51F84271300BA2758 /* ProximoMeuOnibusCelula.swift */,
+				2BA640C71F84276B00BA2758 /* ProximoMeuOnibusDadosTabela.swift */,
+				2B19F5071F82FC0300907639 /* PontoViewController.swift */,
+				2B0C32871F7EA84100B173A2 /* TermosViewController.swift */,
+				2B15C83A1F7C49D700481BCE /* TutorialViewController.temp_caseinsensitive_rename.swift */,
+				2B451E141F7C366800625716 /* MeuLocalViewController.swift */,
+				2B451E071F7BFA5A00625716 /* LaunchScreen.storyboard */,
+				2B451E0A1F7BFA5A00625716 /* Info.plist */,
+				2B4E81E61F7D8C18004C8078 /* Images.xcassets */,
+				2B4E81E81F7D966E004C8078 /* ViewController2.swift */,
+				2B37AC7E1F86B5BA008E1C10 /* styles.css */,
+			);
+			path = "Onibus em Ponto";
+			sourceTree = "<group>";
+		};
+		2B61D42B1F86E32400F19DD4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2B61D42C1F86E32400F19DD4 /* AVFoundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2B451DFA1F7BFA5A00625716 /* Onibus em Ponto */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B451E0D1F7BFA5A00625716 /* Build configuration list for PBXNativeTarget "Onibus em Ponto" */;
+			buildPhases = (
+				2B451DF71F7BFA5A00625716 /* Sources */,
+				2B451DF81F7BFA5A00625716 /* Frameworks */,
+				2B451DF91F7BFA5A00625716 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Onibus em Ponto";
+			productName = "Onibus em Ponto";
+			productReference = 2B451DFB1F7BFA5A00625716 /* Onibus em Ponto.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2B451DF31F7BFA5A00625716 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0900;
+				LastUpgradeCheck = 0900;
+				ORGANIZATIONNAME = virtualartsa;
+				TargetAttributes = {
+					2B451DFA1F7BFA5A00625716 = {
+						CreatedOnToolsVersion = 9.0;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 2B451DF61F7BFA5A00625716 /* Build configuration list for PBXProject "Onibus em Ponto" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2B451DF21F7BFA5A00625716;
+			productRefGroup = 2B451DFC1F7BFA5A00625716 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2B451DFA1F7BFA5A00625716 /* Onibus em Ponto */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2B451DF91F7BFA5A00625716 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B8667E8201F3E3A003D2919 /* g.mp3 in Resources */,
+				2B8667E4201F3E3A003D2919 /* m.mp3 in Resources */,
+				2B8667DD201F3E3A003D2919 /* a.mp3 in Resources */,
+				2B8667E3201F3E3A003D2919 /* l.mp3 in Resources */,
+				2B451E091F7BFA5A00625716 /* LaunchScreen.storyboard in Resources */,
+				2BED22241F880E9A00F93CDA /* erro.mp3 in Resources */,
+				2B8667E5201F3E3A003D2919 /* d.mp3 in Resources */,
+				2B8667E1201F3E3A003D2919 /* f.mp3 in Resources */,
+				2B8667DE201F3E3A003D2919 /* h.mp3 in Resources */,
+				2B8667DC201F3E3A003D2919 /* i.mp3 in Resources */,
+				2BED22251F880E9C00F93CDA /* fim.mp3 in Resources */,
+				2B8667DB201F3E3A003D2919 /* c.mp3 in Resources */,
+				2B4E81E71F7D8C18004C8078 /* Images.xcassets in Resources */,
+				2B8667DF201F3E3A003D2919 /* e.mp3 in Resources */,
+				2B8667E0201F3E3A003D2919 /* b.mp3 in Resources */,
+				2BED22261F880E9F00F93CDA /* inicio.mp3 in Resources */,
+				2B8667E7201F3E3A003D2919 /* k.mp3 in Resources */,
+				2BA640C01F840C7A00BA2758 /* z_termos_de_uso.mp3 in Resources */,
+				2B8667E2201F3E3A003D2919 /* j.mp3 in Resources */,
+				2B8667E6201F3E3A003D2919 /* n.mp3 in Resources */,
+				2B451E041F7BFA5A00625716 /* Main.storyboard in Resources */,
+				2BA640BF1F840C7700BA2758 /* load.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2B451DF71F7BFA5A00625716 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B4E81E91F7D966E004C8078 /* ViewController2.swift in Sources */,
+				2B0C328C1F7EE42800B173A2 /* DetalhesCelulaTableViewCell.swift in Sources */,
+				2BA640D41F84769100BA2758 /* ProximoSelecionarOnibusDadosTabela.swift in Sources */,
+				2BA640C81F84276B00BA2758 /* ProximoMeuOnibusDadosTabela.swift in Sources */,
+				2BA640CA1F84629E00BA2758 /* SelecionarOnibusVIewController.swift in Sources */,
+				2BA640C21F840E7C00BA2758 /* MeuOnibusDadosTabela.swift in Sources */,
+				2BA640D01F84766100BA2758 /* ProximoSelevionarOnibusViewController.swift in Sources */,
+				2B15C83B1F7C49D700481BCE /* TutorialViewController.temp_caseinsensitive_rename.swift in Sources */,
+				2BA640D21F84767B00BA2758 /* ProximoSelecionarOnibusCelula.swift in Sources */,
+				2B451E111F7C185900625716 /* Menu.swift in Sources */,
+				2B71F04C1F82684700CA9A58 /* DetalhesDadosTabela.swift in Sources */,
+				2B19F50A1F8333CE00907639 /* MeuOnibus.swift in Sources */,
+				2B451E011F7BFA5A00625716 /* ViewController.swift in Sources */,
+				2BA640D61F848EB700BA2758 /* ProximoSelecionarOnibusModelo.swift in Sources */,
+				2B19F5061F82D46600907639 /* InfoDadosTabelaItinerario.swift in Sources */,
+				2B451E131F7C221800625716 /* HomeCelula.swift in Sources */,
+				2B0C328A1F7EDEBD00B173A2 /* DetalhesViewController.swift in Sources */,
+				2B451E151F7C366800625716 /* MeuLocalViewController.swift in Sources */,
+				2BA640C41F84180D00BA2758 /* ProximoMeuOnibusViewController.swift in Sources */,
+				2B71F0501F827D4600CA9A58 /* InfoViewController.swift in Sources */,
+				2BA640C61F84271300BA2758 /* ProximoMeuOnibusCelula.swift in Sources */,
+				2B71F04E1F827CC000CA9A58 /* InfoCelula.swift in Sources */,
+				2BA6409E1F83C13500BA2758 /* MeuOnibusCelula.swift in Sources */,
+				2B19F5081F82FC0300907639 /* PontoViewController.swift in Sources */,
+				2B0C32881F7EA84100B173A2 /* TermosViewController.swift in Sources */,
+				2B451DFF1F7BFA5A00625716 /* AppDelegate.swift in Sources */,
+				2BA640CC1F8463BC00BA2758 /* SelecionarOnibusCelula.swift in Sources */,
+				2BA640CE1F8464EF00BA2758 /* SelecionarOnibusDadosTabela.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		2B451E021F7BFA5A00625716 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2B451E031F7BFA5A00625716 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		2B451E071F7BFA5A00625716 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2B451E081F7BFA5A00625716 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		2B451E0B1F7BFA5A00625716 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		2B451E0C1F7BFA5A00625716 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2B451E0E1F7BFA5A00625716 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = GYKWNN96Q3;
+				INFOPLIST_FILE = "Onibus em Ponto/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.virtualartsa.Onibus-em-Ponto";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		2B451E0F1F7BFA5A00625716 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = GYKWNN96Q3;
+				INFOPLIST_FILE = "Onibus em Ponto/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.virtualartsa.Onibus-em-Ponto";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2B451DF61F7BFA5A00625716 /* Build configuration list for PBXProject "Onibus em Ponto" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B451E0B1F7BFA5A00625716 /* Debug */,
+				2B451E0C1F7BFA5A00625716 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B451E0D1F7BFA5A00625716 /* Build configuration list for PBXNativeTarget "Onibus em Ponto" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B451E0E1F7BFA5A00625716 /* Debug */,
+				2B451E0F1F7BFA5A00625716 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2B451DF31F7BFA5A00625716 /* Project object */;
+}
